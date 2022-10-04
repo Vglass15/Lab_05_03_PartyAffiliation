@@ -1,0 +1,41 @@
+public class Main {
+    public static void main(String[] args) {
+    }
+
+
+    String menuChoice = " ";
+    String menu = "D - democrat R-republican I - independent O - other";
+
+    // input menuChoice
+
+    menuChoice="d ";
+
+    {
+        if (menuChoice = D) ;
+        {
+            System.out.println("You get a democratic donkey.");
+        }
+
+        {
+            if (menuChoice = R) ;
+            {
+                System.out.println("You get a republican elephant.");
+            }
+
+            {
+                if (menuChoice = I) ;
+            }
+            {
+                System.out.println("You get an independent man.");
+            }
+            {
+                if (menuChoice = O) ;
+                {
+                    System.out.println("Your party is other.");
+                }
+
+            }
+
+
+        }
+    }
